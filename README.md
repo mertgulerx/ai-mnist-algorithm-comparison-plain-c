@@ -1,2 +1,2 @@
 # mnist-algorithm-comparison-plain-c
-Comparing optimization algorithms with binary classification in plain C
+Comparing machine learning algorithms with binary classification in plain C
